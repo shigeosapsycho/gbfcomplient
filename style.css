@@ -1,0 +1,36 @@
+/*Originally, I have a white and pastel theme going on; similarly to cinnamoroll*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 40px auto;
+}
+
+button {
+    background-color: #ADD8E6; /* Light blue color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #87CEEB; /* Slightly darker blue */
+}
+
+p {
+    color: #333;
+    margin-top: 20px;
+}
