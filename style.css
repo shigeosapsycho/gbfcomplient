@@ -1,7 +1,6 @@
-/*Originally, I have a white and pastel theme going on; similarly to cinnamoroll*/
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #b5e7a0;
     text-align: center;
     padding: 20px;
 }
@@ -16,7 +15,7 @@ body {
 }
 
 button {
-    background-color: #ADD8E6; /* Light blue color */
+    background-color: #7289da;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -27,10 +26,10 @@ button {
 }
 
 button:hover {
-    background-color: #87CEEB; /* Slightly darker blue */
+    background-color: #7289da;
 }
 
 p {
-    color: #333;
+    color: black;
     margin-top: 20px;
 }
