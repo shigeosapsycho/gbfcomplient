@@ -16,7 +16,7 @@ You can try out the live version of the Affirmation Generator made for my girlfr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shigeosapsycho/affirmation-generator.git
+    git clone https://github.com/shigeosapsycho/gbfcomplientr.git
     ```
 2. Open the `index.html` file in your browser.
 
